@@ -14,5 +14,4 @@ Javascript, css, html
 
 # Useful Websites
 
-- [Angular](https://angular.io/guide/setup-local)
 - [Javascript](https://www.javascript.com/)
