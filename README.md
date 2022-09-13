@@ -10,7 +10,7 @@ The purpose of this application is to demostrate my proficiency of using git, co
 
 Angular fronend development framework
 
-Typescript, css, html
+Javascript, css, html
 
 # Useful Websites
 
