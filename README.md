@@ -15,4 +15,4 @@ Javascript, css, html
 # Useful Websites
 
 - [Angular](https://angular.io/guide/setup-local)
-- [Typescript](https://www.typescriptlang.org/)
+- [Javascript](https://www.javascript.com/)
