@@ -8,7 +8,7 @@ The purpose of this application is to demostrate my proficiency of using git, co
 
 # Development Environment
 
-Angular fronend development framework
+Web browser, live server.
 
 Javascript, css, html
 
